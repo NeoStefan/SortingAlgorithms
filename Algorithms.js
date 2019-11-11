@@ -32,6 +32,7 @@ numbers.forEach(number => {
 
 console.log("")
 
+//insertion sort
 for (let i = 1; i < numbers.length; i++) {
     
     var temp;
